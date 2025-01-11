@@ -258,22 +258,3 @@
     border-radius: 0 10px 10px 0;
     width: 120px;
   }
-
-  .soto-vai{
-    text-align: center;
-  }
-  
-  
-  .search-bar{
-    margin: auto;
-  }
-
-  .foot-img{
-    display: flex;
-    gap: 24px;
-    justify-content: center;
-  }
-
-  .boro-vai{
-    text-align: center;
-  }
