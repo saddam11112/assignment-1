@@ -1,0 +1,279 @@
+.fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700px;
+    font-style: normal;
+  }
+  .messi{
+    color: rgb(11, 22, 1);
+  }
+
+
+  nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 225px;
+    align-items: center;
+  }
+
+  nav div button{
+    padding: 7px 12px;
+    border-radius: 7px;
+    border: 1px solid rgb(150, 60, 60);
+  }
+
+  .ronaldo{
+    height: 560px;
+    width: 1280px;
+    background-color: #5ec7b9;
+    margin: auto;
+ .btnn{
+    font-size: 14px;
+    width: 180px;
+    height: 40px;
+    background-color: #bb920c;
+    border: none;
+    border-radius: 10px;
+    color: rgb(197, 78, 78);
+  }    border-radius: 12px;
+    
+    }
+
+    .headercontent{
+        display: flex;
+        align-items: center;
+        padding: 100px;
+        justify-content: space-between;
+    }
+    .header-text{
+        width: 440px;
+        height: 320px;
+    }
+
+  h1{
+    font-size: 40px;
+  }
+  .ronaldo-p{
+    font-size: 18px;
+  }
+
+
+
+ 
+
+  .header-image{
+    height: 400px;
+    width: 474px;
+  }
+
+
+
+
+  .main-parent{
+    display: flex;
+    gap: 24px;
+  }
+
+  .main-child{
+    background-color: rgb(204, 204, 204);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 30px;
+    
+  }
+
+  .main-header{
+    width: 1280px;
+    height: 324px;
+    margin: auto;
+    gap: 40px;
+    margin-top: 100px;
+
+  }
+
+  .messi-pil{
+    margin-bottom: 20px;
+  }
+
+  
+
+  .main-future{
+    width: 1280px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    
+  }
+
+  .future-parent{
+    display: flex;
+    gap: 24px;
+    
+  }
+
+  .future-child{
+    background-color: rgb(216, 90, 51);
+    padding: 20px;
+    border-radius: 10px;
+    height: 240px;
+  }
+  .btnn{
+    color: rgb(169, 33, 196);
+  }
+
+  .future-text{
+    margin-top: 100px;
+    background-color: rgb(168, 34, 180);
+    width: 1280px;
+    border-radius: 10px;
+    padding: 15px;
+    
+  }
+
+.top-content{
+    background-color: rgb(139, 96, 44);
+    border-radius: 10px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    border: 20px solid rgb(207, 133, 42);
+    height: 180px;
+    width: 1245px;
+    margin: auto;
+
+}
+
+.play-boy{
+    
+    margin-top: 40px;
+}
+
+.top-value{
+    margin-top: 50px;
+}
+.new-child{
+    display: flex;
+    gap: 20px;
+    background-color: rgb(199, 188, 37);
+    border-radius: 20px;
+    height: 307px;
+    padding: 40px;
+    
+}
+
+.top-feed{
+    width: 1280px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.quick-img{
+    border-radius: 20px;
+    
+}
+
+.ol{
+    margin-top: 20px;
+}
+
+
+.need-header{
+    width: 1280px;
+    margin: auto;
+}
+
+.need-father{
+    
+}
+
+.need-option{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.son-soto{
+    margin-top: 30px;
+}
+
+.bttnn{
+    font-size: 14px;
+    width: 180px;
+    height: 80px;
+    background-color: rgb(226, 99, 99);
+    border: none;
+    border-radius: 10px;
+    color: rgb(180, 83, 83);
+    font-size: 44px;
+  }
+
+  .butn{
+    width: 900px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+  }
+  .click{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: coral;
+  }
+
+  .point{
+    background-color: rgb(251, 198, 118);
+  }
+  .point-1{
+    background-color: darkcyan;
+  }
+  .point-2{
+    background-color: darkkhaki;
+  }
+.point-3{
+    background-color: purple;
+}
+
+
+.search-bar {
+    height: 40px;
+    width: 500px;
+    font-size: 14px; 
+    border: none;
+    border-radius: 10px 0 0 10px;
+    background-color: beige;
+    padding-left: 20px;
+  }
+
+  .search{
+    display: flex;
+  }
+
+  .img{
+    border: none; background-color: #bfe709;
+    border-radius: 0 10px 10px 0;
+    width: 120px;
+  }
+
+  .soto-vai{
+    text-align: center;
+  }
+  
+  
+  .search-bar{
+    margin: auto;
+  }
+
+  .foot-img{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+  }
+
+  .boro-vai{
+    text-align: center;
+  }
