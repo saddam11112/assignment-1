@@ -130,7 +130,7 @@
   }
 
 .top-content{
-    background-color: rgb(139, 96, 44);
+    background-color: rgb(201, 141, 67);
     border-radius: 10px;
     background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
@@ -275,5 +275,5 @@
   }
 
   .boro-vai{
-    text-align: center;
+    text-align: center;
   }
